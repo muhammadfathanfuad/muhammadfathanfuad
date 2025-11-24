@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi there, I'm Fathan! 👋</h1>
 
-###
-
-
 <h3 align="center">🚀 Full Stack Web & Mobile Developer</h3>
 
 
 <p align="center">☕ Powered by coffee</p>
 
+
 ###
+
+<br clear="both">
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">languanges :</h4>
+<h4 align="center">languanges :</h4>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h4 align="left">Frameworks :</h4>
+<h4 align="center">Frameworks :</h4>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h4 align="left">Tools & DevOps :</h4>
+<h4 align="center">Tools & DevOps :</h4>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h4 align="left">Connect with Me :</h4>
+<h4 align="center">Connect with Me :</h4>
 
 ###
 
